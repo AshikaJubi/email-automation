@@ -1,5 +1,7 @@
 ## AIM: 
   To create a workflow in UiPath that reads data from an Excel file and writes the same data into another Excel file.
+
+## REG NO: 212221040020
  
 ## Activites Required:
   1. Send SMTP Mail Message
@@ -36,10 +38,10 @@
   - Check the recipient's inbox to confirm the email was sent successfully.
 
 ## Workflow:
-![image](https://github.com/user-attachments/assets/05739ce1-d092-4fcb-9b03-623e81e93e6b)
+![alt text](image.png)
 
 ## Output:
-![image](https://github.com/user-attachments/assets/e2b4669c-f60a-4452-99cb-2ee655be4717)
+![alt text](image-1.png)
 
 ## Result:
   Thus, the automation for sending an email is implemented successfully.
